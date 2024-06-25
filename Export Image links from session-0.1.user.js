@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Export Image links from session
-// @namespace    http://tampermonkey.net/
+// @name         Extract Image links from session (remove Duplicate)
+// @namespace    https://github.com/noarche/
 // @version      0.1
-// @description  Save links from all websites visited
+// @description  Extract image links from all websites visited & Removes Duplicate links. 
 // @author       noarche
 // @match        *://*/*
 // @grant        GM_download
