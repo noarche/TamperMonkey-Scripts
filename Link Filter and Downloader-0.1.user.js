@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         Link Filter and Downloader
-// @namespace    http://github.com/noarche/
+// @name         Filter Links by string to list
+// @namespace    https://github.com/noarche/TamperMonkey-Scripts
 // @version      0.1
-// @description  Parse, filter, and download links from the webpage
-// @author       You
+// @description  Parse, filter, and download links from the webpage that contain ".com/users/".  Edit line 22 to customize string.
+// @author       noarche
 // @match        *://*/*
 // @grant        none
 // ==/UserScript==
